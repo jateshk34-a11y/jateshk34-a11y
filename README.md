@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**jateshk34-a11y/jateshk34-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jatesh Kumar 👋
 
-Here are some ideas to get you started:
+### BS Artificial Intelligence Student | DUET, Karachi 🇵🇰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building my skills in Python, Data Analysis, and Artificial Intelligence.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Currently pursuing a BS in Artificial Intelligence at Dawood University of Engineering & Technology (DUET).
+- 🐍 Learning Python and exploring data analysis.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- ☁️ Exploring cloud computing and AWS.
+- 📈 Improving my problem-solving and programming skills.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, C++
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+- **Cloud:** AWS fundamentals
+- **Currently Learning:** Data Structures & Algorithms, AI/ML
+
+## 🚀 Featured Projects
+
+### 🐧 EDA of Penguins
+Exploratory data analysis of the Palmer Penguins dataset.
+
+🔗 [View Repository](https://github.com/jateshk34-a11y/EDA-Project)
+
+## 🎯 Current Goals
+
+- Strengthen Python programming fundamentals.
+- Build practical AI and data analysis projects.
+- Learn Data Structures & Algorithms.
+- Develop real-world software projects.
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jatesh-kumar-1222203aa/)
+
+---
+
+⭐ Thanks for visiting my profile!
